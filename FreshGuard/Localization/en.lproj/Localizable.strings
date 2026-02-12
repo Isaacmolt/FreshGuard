@@ -1,0 +1,108 @@
+/* FreshGuard - English */
+
+"app_name" = "FreshGuard";
+"app_subtitle" = "Keep everything fresh";
+
+"cancel" = "Cancel";
+"confirm" = "Done";
+"save" = "Save";
+"done" = "Done";
+"delete" = "Delete";
+"edit" = "Edit";
+"error" = "Error";
+"days" = "days";
+
+"space_fridge" = "Fridge";
+"space_snack_cabinet" = "Snack Cabinet";
+"space_vanity_table" = "Vanity Table";
+"space_wine_cellar" = "Wine Cellar";
+"space_custom" = "Custom Space";
+"items_count" = "items";
+"items_unit" = "items";
+"items_expiring_soon" = "items expiring soon";
+"empty_space" = "No items yet. Tap + to add.";
+"empty_section" = "No items";
+"tap_to_open" = "Tap to open";
+"add_space" = "Add Space";
+"add_space_type" = "Choose Space Type";
+"custom_name" = "Custom Name";
+"custom_name_placeholder" = "e.g. Kitchen Mini Fridge";
+"custom_name_footer" = "Give this space a unique name for easy identification.";
+"rename_space" = "Rename";
+
+"section_frozen" = "Freezer";
+"section_refrigerated" = "Fridge";
+"section_cosmetics" = "Cosmetics";
+"section_skincare" = "Skincare";
+
+"add_item" = "Add Item";
+"edit_item" = "Edit Item";
+"item_name" = "Item Name";
+"item_name_placeholder" = "Enter item name…";
+"select_section" = "Select Section";
+"expiry_date_label" = "Expiry Date";
+"expiry_date_short" = "Expires";
+"stored_days_label" = "Days Stored";
+"added_on" = "Added on";
+"expired" = "Expired";
+"delete_item" = "Delete Item";
+"delete_confirm_title" = "Delete this item?";
+"delete_confirm_msg" = "This action cannot be undone.";
+
+"one_week" = "1 Week";
+"two_weeks" = "2 Weeks";
+"one_month" = "1 Month";
+"three_months" = "3 Months";
+"six_months" = "6 Months";
+"one_year" = "1 Year";
+
+"settings" = "Settings";
+"traffic_lights" = "Alert Levels";
+"traffic_lights_footer" = "Items will change color when remaining days reach these thresholds. Enable the speaker icon to receive push notifications.";
+"add_custom_light" = "Add Custom Alert (Pro)";
+"light_color" = "Alert Color";
+"days_threshold" = "Days Threshold";
+"language" = "Language";
+"timezone" = "Timezone";
+"current_timezone" = "Current Timezone";
+"search_timezone" = "Search timezone…";
+"appearance" = "Appearance";
+"dark_mode" = "Dark Mode";
+"about" = "About";
+"version" = "Version";
+
+"subscription" = "Subscription";
+"upgrade_to_pro" = "Upgrade to Pro";
+"pro_active" = "Pro Member (Active)";
+"pro_description" = "Unlock all spaces and advanced features for easier management!";
+"pro_feature_snack" = "Snack Cabinet — Track snack expiry dates";
+"pro_feature_vanity" = "Vanity Table — Manage cosmetics & skincare";
+"pro_feature_wine" = "Wine Cellar — Track storage duration";
+"pro_feature_custom_lights" = "Custom alert colors & levels";
+"pro_feature_unlimited" = "Unlimited spaces";
+"pro_feature_naming" = "Custom space naming";
+"monthly" = "Monthly";
+"monthly_subtitle_twd" = "Auto-renews monthly";
+"monthly_subtitle_usd" = "Auto-renews monthly";
+"lifetime" = "Lifetime";
+"one_time_purchase" = "One-time purchase, forever yours";
+"bait_text_twd" = "💡 About NT$1 per day!";
+"bait_text_usd" = "💡 Less than $0.04 per day!";
+"best_value" = "Best Value";
+"restore_purchases" = "Restore Purchases";
+"terms_of_service" = "Terms of Service";
+"privacy_policy" = "Privacy Policy";
+"product_not_found" = "Unable to load products. Please try again later.";
+
+"choose_color" = "Choose Color";
+"custom_color" = "More Colors";
+
+"onboard_title_1" = "Manage Your Fridge";
+"onboard_sub_1" = "Easily track expiry dates for everything in your fridge. Never forget again!";
+"onboard_title_2" = "Smart Alerts";
+"onboard_sub_2" = "Red, yellow, green indicators at a glance. Auto-notify before items expire.";
+"onboard_title_3" = "More Spaces";
+"onboard_sub_3" = "Upgrade to Pro to unlock Snack Cabinet, Vanity Table, Wine Cellar and more!";
+"next" = "Next";
+"get_started" = "Get Started";
+"skip" = "Skip";

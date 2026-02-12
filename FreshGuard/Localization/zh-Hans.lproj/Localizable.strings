@@ -1,0 +1,108 @@
+/* FreshGuard - 简体中文 */
+
+"app_name" = "鲜守卫";
+"app_subtitle" = "守护每一份新鲜";
+
+"cancel" = "取消";
+"confirm" = "确认";
+"save" = "保存";
+"done" = "完成";
+"delete" = "删除";
+"edit" = "编辑";
+"error" = "错误";
+"days" = "天";
+
+"space_fridge" = "冰箱";
+"space_snack_cabinet" = "零食柜";
+"space_vanity_table" = "化妆台";
+"space_wine_cellar" = "酒柜";
+"space_custom" = "自定义空间";
+"items_count" = "个物品";
+"items_unit" = "项";
+"items_expiring_soon" = "个物品即将到期";
+"empty_space" = "暂无物品，点击 ＋ 添加";
+"empty_section" = "暂无物品";
+"tap_to_open" = "点击打开";
+"add_space" = "添加空间";
+"add_space_type" = "选择空间类型";
+"custom_name" = "自定义名称";
+"custom_name_placeholder" = "例如：二楼小冰箱";
+"custom_name_footer" = "给这个空间取一个专属名字，更方便辨识。";
+"rename_space" = "重新命名";
+
+"section_frozen" = "冷冻";
+"section_refrigerated" = "冷藏";
+"section_cosmetics" = "化妆品";
+"section_skincare" = "护肤品";
+
+"add_item" = "添加物品";
+"edit_item" = "编辑物品";
+"item_name" = "物品名称";
+"item_name_placeholder" = "输入物品名称…";
+"select_section" = "选择分区";
+"expiry_date_label" = "有效期限";
+"expiry_date_short" = "有效期限";
+"stored_days_label" = "已存放天数";
+"added_on" = "添加于";
+"expired" = "已过期";
+"delete_item" = "删除此物品";
+"delete_confirm_title" = "确定删除？";
+"delete_confirm_msg" = "删除后将无法恢复。";
+
+"one_week" = "1 周";
+"two_weeks" = "2 周";
+"one_month" = "1 个月";
+"three_months" = "3 个月";
+"six_months" = "半年";
+"one_year" = "1 年";
+
+"settings" = "设置";
+"traffic_lights" = "灯号设置";
+"traffic_lights_footer" = "物品剩余天数达到设定值时，灯号会自动变色。开启喇叭图标则会发送推送通知提醒您。";
+"add_custom_light" = "添加自定义灯号（Pro）";
+"light_color" = "灯号颜色";
+"days_threshold" = "天数阈值";
+"language" = "语言";
+"timezone" = "时区";
+"current_timezone" = "当前时区";
+"search_timezone" = "搜索时区…";
+"appearance" = "外观";
+"dark_mode" = "深色模式";
+"about" = "关于";
+"version" = "版本";
+
+"subscription" = "订阅会员";
+"upgrade_to_pro" = "升级为 Pro 会员";
+"pro_active" = "Pro 会员（已激活）";
+"pro_description" = "解锁所有进阶空间与功能，让生活管理更轻松！";
+"pro_feature_snack" = "零食柜 — 掌握零食保质期";
+"pro_feature_vanity" = "化妆台 — 管理化妆品与护肤品";
+"pro_feature_wine" = "酒柜 — 记录存放天数";
+"pro_feature_custom_lights" = "自定义灯号颜色与数量";
+"pro_feature_unlimited" = "无限添加空间";
+"pro_feature_naming" = "专属空间命名";
+"monthly" = "月订阅";
+"monthly_subtitle_twd" = "每月自动续订";
+"monthly_subtitle_usd" = "Auto-renews monthly";
+"lifetime" = "永久买断";
+"one_time_purchase" = "一次购买，永久使用";
+"bait_text_twd" = "💡 一天大约只要 1 块钱！";
+"bait_text_usd" = "💡 Less than $0.04 per day!";
+"best_value" = "最划算";
+"restore_purchases" = "恢复购买";
+"terms_of_service" = "服务条款";
+"privacy_policy" = "隐私政策";
+"product_not_found" = "无法获取商品信息，请稍后再试。";
+
+"choose_color" = "选择颜色";
+"custom_color" = "更多颜色";
+
+"onboard_title_1" = "管理你的冰箱";
+"onboard_sub_1" = "轻松记录冰箱里每样东西的有效期限，再也不会忘记！";
+"onboard_title_2" = "智能提醒";
+"onboard_sub_2" = "红黄绿灯号一目了然，到期前自动推送通知你。";
+"onboard_title_3" = "更多空间";
+"onboard_sub_3" = "升级 Pro 解锁零食柜、化妆台、酒柜等更多空间！";
+"next" = "下一步";
+"get_started" = "开始使用";
+"skip" = "跳过";

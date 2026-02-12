@@ -1,0 +1,78 @@
+{
+  "identifier" : "FreshGuard_Products",
+  "nonRenewableSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "lifetime_001",
+      "localizations" : [
+        {
+          "description" : "Unlock all Pro features forever",
+          "displayName" : "FreshGuard Pro (Lifetime)",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "永久解鎖所有 Pro 功能",
+          "displayName" : "鮮守衛 Pro（永久）",
+          "locale" : "zh_TW"
+        }
+      ],
+      "productID" : "com.freshguard.pro.lifetime",
+      "referenceName" : "Pro Lifetime",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "freshguard_app",
+    "_developerTeamID" : "XXXXXXXXXX",
+    "_lastSynchronizedDate" : "2026-02-12T00:00:00Z"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "pro_group",
+      "localizations" : [
+
+      ],
+      "name" : "FreshGuard Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.19",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "monthly_001",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock all Pro features",
+              "displayName" : "FreshGuard Pro (Monthly)",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "解鎖所有 Pro 功能",
+              "displayName" : "鮮守衛 Pro（月訂閱）",
+              "locale" : "zh_TW"
+            }
+          ],
+          "productID" : "com.freshguard.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Monthly",
+          "subscriptionGroupID" : "pro_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

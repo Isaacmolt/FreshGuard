@@ -1,0 +1,108 @@
+/* FreshGuard - 繁體中文 */
+
+"app_name" = "鮮守衛";
+"app_subtitle" = "守護每一份新鮮";
+
+"cancel" = "取消";
+"confirm" = "確認";
+"save" = "儲存";
+"done" = "完成";
+"delete" = "刪除";
+"edit" = "編輯";
+"error" = "錯誤";
+"days" = "天";
+
+"space_fridge" = "冰箱";
+"space_snack_cabinet" = "零食櫃";
+"space_vanity_table" = "化妝台";
+"space_wine_cellar" = "酒櫃";
+"space_custom" = "自訂空間";
+"items_count" = "個品項";
+"items_unit" = "項";
+"items_expiring_soon" = "個品項即將到期";
+"empty_space" = "尚無品項，點擊 ＋ 新增";
+"empty_section" = "尚無品項";
+"tap_to_open" = "點擊開啟";
+"add_space" = "新增空間";
+"add_space_type" = "選擇空間類型";
+"custom_name" = "自訂名稱";
+"custom_name_placeholder" = "例如：二樓小冰箱";
+"custom_name_footer" = "幫這個空間取一個專屬名字，更方便辨識。";
+"rename_space" = "重新命名";
+
+"section_frozen" = "冷凍";
+"section_refrigerated" = "冷藏";
+"section_cosmetics" = "化妝品";
+"section_skincare" = "保養品";
+
+"add_item" = "新增品項";
+"edit_item" = "編輯品項";
+"item_name" = "品項名稱";
+"item_name_placeholder" = "輸入品項名稱⋯";
+"select_section" = "選擇分區";
+"expiry_date_label" = "有效期限";
+"expiry_date_short" = "有效期限";
+"stored_days_label" = "已存放天數";
+"added_on" = "新增於";
+"expired" = "已過期";
+"delete_item" = "刪除此品項";
+"delete_confirm_title" = "確定刪除？";
+"delete_confirm_msg" = "刪除後將無法復原。";
+
+"one_week" = "1 週";
+"two_weeks" = "2 週";
+"one_month" = "1 個月";
+"three_months" = "3 個月";
+"six_months" = "半年";
+"one_year" = "1 年";
+
+"settings" = "設定";
+"traffic_lights" = "燈號設定";
+"traffic_lights_footer" = "品項剩餘天數達到設定值時，燈號會自動變色。開啟喇叭圖示則會發送推播通知提醒您。";
+"add_custom_light" = "新增自訂燈號（Pro）";
+"light_color" = "燈號顏色";
+"days_threshold" = "天數門檻";
+"language" = "語言";
+"timezone" = "時區";
+"current_timezone" = "目前時區";
+"search_timezone" = "搜尋時區⋯";
+"appearance" = "外觀";
+"dark_mode" = "深色模式";
+"about" = "關於";
+"version" = "版本";
+
+"subscription" = "訂閱會員";
+"upgrade_to_pro" = "升級為 Pro 會員";
+"pro_active" = "Pro 會員（已啟用）";
+"pro_description" = "解鎖所有進階空間與功能，讓生活管理更輕鬆！";
+"pro_feature_snack" = "零食櫃 — 掌握零食賞味期限";
+"pro_feature_vanity" = "化妝台 — 管理化妝品與保養品";
+"pro_feature_wine" = "酒櫃 — 記錄存放天數";
+"pro_feature_custom_lights" = "自訂燈號顏色與數量";
+"pro_feature_unlimited" = "無限新增空間";
+"pro_feature_naming" = "專屬空間命名";
+"monthly" = "月訂閱";
+"monthly_subtitle_twd" = "每月自動續訂";
+"monthly_subtitle_usd" = "Auto-renews monthly";
+"lifetime" = "永久買斷";
+"one_time_purchase" = "一次購買，永久使用";
+"bait_text_twd" = "💡 一天大約只要 1 塊錢！";
+"bait_text_usd" = "💡 Less than $0.04 per day!";
+"best_value" = "最划算";
+"restore_purchases" = "恢復購買";
+"terms_of_service" = "服務條款";
+"privacy_policy" = "隱私政策";
+"product_not_found" = "無法取得商品資訊，請稍後再試。";
+
+"choose_color" = "選擇顏色";
+"custom_color" = "更多顏色";
+
+"onboard_title_1" = "管理你的冰箱";
+"onboard_sub_1" = "輕鬆記錄冰箱裡每樣東西的有效期限，再也不會忘記！";
+"onboard_title_2" = "智慧提醒";
+"onboard_sub_2" = "紅黃綠燈號一目瞭然，到期前自動推播通知你。";
+"onboard_title_3" = "更多空間";
+"onboard_sub_3" = "升級 Pro 解鎖零食櫃、化妝台、酒櫃等更多空間！";
+"next" = "下一步";
+"get_started" = "開始使用";
+"skip" = "跳過";
